@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-northern-documentary-individual-collective",
+  "title": "The Ice That Sings",
+  "tagline": "In the vast silence of the northern ice, a secretary must document a world that defies measurement, where the observations of pilot, doctor, and artist threaten to fracture their collective mission.",
+  "target_words": 72228,
+  "actual_words": 72228,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Limits of Human Perception",
+    "The Tension Between Empirical and Spiritual Knowledge",
+    "The Individual's Role Within a Collective Endeavor",
+    "Nature as an Inscrutable and Active Force"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ice That Sings",
+      "words": 6019
+    },
+    {
+      "ch": 2,
+      "title": "A Darker Slice of Dark",
+      "words": 6019
+    },
+    {
+      "ch": 3,
+      "title": "The Geography of a Song",
+      "words": 6019
+    },
+    {
+      "ch": 4,
+      "title": "The Note in the Marrow",
+      "words": 6019
+    },
+    {
+      "ch": 5,
+      "title": "The Lie of Lamplight",
+      "words": 6019
+    },
+    {
+      "ch": 6,
+      "title": "A Scent of Southern Rot",
+      "words": 6019
+    },
+    {
+      "ch": 7,
+      "title": "The Comma in the Sentence",
+      "words": 6019
+    },
+    {
+      "ch": 8,
+      "title": "A Fractured Polyphony",
+      "words": 6019
+    },
+    {
+      "ch": 9,
+      "title": "Lessons in Blue",
+      "words": 6019
+    },
+    {
+      "ch": 10,
+      "title": "The Giant's Resonant Breath",
+      "words": 6019
+    },
+    {
+      "ch": 11,
+      "title": "A Composite World Breathing",
+      "words": 6019
+    },
+    {
+      "ch": 12,
+      "title": "The Silent Path",
+      "words": 6019
+    }
+  ]
+}
